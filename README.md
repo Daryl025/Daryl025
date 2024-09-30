@@ -21,3 +21,16 @@ I see web development and designing like a world of sorcery/magic, filled with g
 
 Some of the magical artifacts they use are HTML, CSS, JavaScript, Python, MYSQL, GitHub and VS Code out of hundreds.
 
+### *My thoughts about how the process went.*
+
+- I had to read and assimilate what was required of me for this assignment.
+
+- I had to create a public repository that matches my github username containing a README. md. file. In which had to make commits and push them into it.
+
+- While completing this task, I learned about writing good commit messages, which consists of writing in the imperative mood, Being concise and descriptive, Capitalizing the first letters etc..
+
+- I noticed that I could directly perform the commits on github but I preferred to do my writing on VScode and use github desktop to commit.
+
+- Doing this permitted me to learn how to create a file on github, clone it and open it on github desktop, from there do the writing on VScode and commit. I chose this path because most of my work if not all will be done on a code editor and not on github.
+
+- Lastly, I got my initiation into using Markdown formatting.   *LOVED IT !!!*  
