@@ -1,6 +1,14 @@
 # Hello, world! 👋
 
-# **I will share with you what i think should be the qualitiees of a good software developer and designer.**
+# About Me
+
+I go by Arold Daryl Tchouala, a young and passionate Junior developer. Majoring in the **Interactive Design| Web Design and Development** program at the *Southern Alberta Institute of Technology collage*. Aspiring to secure a career as a Full stack developer.
+
+In the near future,  i aim to gain more practical experience through challenging internships, improve my proficiency in coding, and the usage of frameworks, get certifications, and coonect with other developers and professionals in the field through meetups and tech events.
+
+Besides coding, i love playing soccer, reading, music, and watching movies.
+
+## **I will share with you what i think should be the qualities of a good software developer and designer.**
 
 - In my view, a good software engineer should possess a creative mindset, which can be cultivated with time rather than being innate. They should be able to communicate ideas clearly, conduct surveys, and discern between what is ideal from and what is not.
 
@@ -8,7 +16,7 @@
 
  - Additionally, he should adaptable, and embrace collaboration with diverse teams and approach challenges with a proactive mindset.
 
-## **What web development and designing looks like to me**
+### **What web development and designing looks like to me**
 
 I see web development and designing like a world of sorcery/magic, filled with good sorcerers (Software Engineers). In this world, the muggles(respectfully) generate raw ideas based on their imagination or need of web solutions. They then solicitate sorcerers so they can perform some magic to satisfy their needs. In this magical world unlike others, the sorcerers don’t just directly cast spells, but they follow a series of recommended steps to perform their magic. This procedure involves.
 
@@ -21,7 +29,7 @@ I see web development and designing like a world of sorcery/magic, filled with g
 
 Some of the magical artifacts they use are HTML, CSS, JavaScript, Python, MYSQL, GitHub and VS Code out of hundreds.
 
-### *My thoughts about how the process went.*
+#### *My thoughts about how the process went.*
 
 - I had to read and assimilate what was required of me for this assignment.
 
