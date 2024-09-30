@@ -4,7 +4,7 @@
 
 I go by Arold Daryl Tchouala, a young and passionate Junior developer. Majoring in the **Interactive Design| Web Design and Development** program at the *Southern Alberta Institute of Technology collage*. Aspiring to secure a career as a Full stack developer.
 
-In the near future,  i aim to gain more practical experience through challenging internships, improve my proficiency in coding, and the usage of frameworks, get certifications, and coonect with other developers and professionals in the field through meetups and tech events.
+In the near future,  i aim to gain more practical experience through challenging internships, improve my proficiency in coding, and the usage of frameworks, get certifications, and connect with other developers and professionals in the field through meetups and tech events.
 
 Besides coding, i love playing soccer, reading, music, and watching movies.
 
